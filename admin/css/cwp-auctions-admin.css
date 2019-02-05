@@ -1,0 +1,15 @@
+.fh-profile-upload-options th,
+.fh-profile-upload-options td,
+.fh-profile-upload-options input {
+    vertical-align: top;
+}
+
+.user-preview-image {
+    display: block;
+    height: 30px;
+    width: 30px;
+    float: left;
+}
+i{font-size: 1.8em !important;vertical-align: middle;padding-left:1em;cursor:pointer;}
+.hidden{display:none;}
+.red-minus{color:red !important;}

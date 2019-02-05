@@ -1,0 +1,9 @@
+th,td{padding:0.5rem !important;}
+@media (min-width: 576px){
+    .modal-dialog
+    {
+        max-width: 800px !important;
+    }
+}
+@media (max-width: 576px){.modal-body img{width:100% !important;height: auto !important;}}
+#auction-images img{cursor: pointer;}
